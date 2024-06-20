@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHAN PALKAR</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
+<img align="right" alt="coding" width="350" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpalkar2000&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpalkar2000" /> </p>
 
