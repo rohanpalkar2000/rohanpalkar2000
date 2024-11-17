@@ -35,8 +35,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://www.advancedexcel.net/power-bi/images/power-bi-hero.jpg" alt="sqlite" width="70" height="40"/> </a> </p>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://www.advancedexcel.net/power-bi/images/power-bi-hero.jpg" alt="sqlite" width="70" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4E33AQHJ2njQGdDNdQ/productpage-image_1128_635/productpage-image_1128_635/0/1684483915227/vista_company_tableau_image?e=2147483647&v=beta&t=NoYRK-BukpDLO-GOpVfdD18mrSpvb9lkZ8R8UVHhe0M" alt="sqlite" width="70" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanpalkar2000&show_icons=true&locale=en&layout=compact" alt="rohanpalkar2000" /></p>
