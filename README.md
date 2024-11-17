@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpalkar2000&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpalkar2000" /> </p>
 
-- 🌱 I’m currently learning **Python, Flask, Data Visualization**
+- 🌱 I’m currently learning **Python, Flask, Power BI, MySQL, Tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohanpalkar2000](https://github.com/rohanpalkar2000)
 
 - 📝 I regularly write articles on [https://rohantechblog.blogspot.com/](https://rohantechblog.blogspot.com/)
+- My Portfolio https://rohanpalkar2000.github.io/
 
 - 📫 How to reach me **rohanpalkar2000@gmail.com**
 
